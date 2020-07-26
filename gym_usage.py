@@ -1,6 +1,7 @@
 try:
 
     import pandas as pd
+    import selenium
 
 
 
